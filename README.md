@@ -4,5 +4,5 @@
 ## Используются технологии
 -HTML
 -CSS
--Bootsrap
+-Bootsrap v5
 -JS
